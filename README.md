@@ -13,3 +13,5 @@ Em transição de carreira, com foco em desenvolvimento Full Stack Python
 ### Linguagens Utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-silva-batista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contato
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/tiago-silva-batista/)
